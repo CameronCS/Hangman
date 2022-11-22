@@ -20,7 +20,7 @@
  This game is made for you to enjoy and customise
  
  ## Wanna see the code?
- No Worries! All the code is documented using the C# <summary></summary> documentation method
+ No Worries! All the code is documented using the C# summary documentation method
  
  A lot of the lines are documented to avoid ambiguity.
  
